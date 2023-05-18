@@ -1,0 +1,14 @@
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\bin\Debug\net6.0-windows7.0\OutlookAPI.deps.json
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\bin\Debug\net6.0-windows7.0\OutlookAPI.dll
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\bin\Debug\net6.0-windows7.0\OutlookAPI.pdb
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.csproj.AssemblyReference.cache
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.csproj.ResolveComReference.cache
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.AssemblyInfoInputs.cache
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.AssemblyInfo.cs
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\Outlook API.csproj.CoreCompileInputs.cache
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\OutlookAPI.dll
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\refint\OutlookAPI.dll
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\OutlookAPI.pdb
+C:\Users\s.fadeev\Documents\#Рабочие проекты\Библиотеки\Поддержка для API\Outlook API\Outlook API\obj\Debug\net6.0-windows7.0\ref\OutlookAPI.dll

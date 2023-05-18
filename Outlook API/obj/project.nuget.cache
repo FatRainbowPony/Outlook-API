@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zO1KUXbQniJc1ixVeB/inbuC1UqHIkdcLVqpbcs3IeaHJ6KCKyuyFYcbESEUgaVqnOEyZxprkDHvKag4ZRPTpA==",
+  "dgSpecHash": "o0gUkfTc5XZXAeoBDJJh75nLYTGhK+XqcQg5CHVNc2GXFpgUr6KYgA6vHJRFryt/q0jBXB0kFu0IhPkL7U8kLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s.fadeev\\Documents\\Outlook API\\Outlook API\\Outlook API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\s.fadeev\\Documents\\#Рабочие проекты\\Библиотеки\\Поддержка для API\\Outlook API\\Outlook API\\Outlook API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.fadeev\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
   "logs": []
 }
