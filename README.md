@@ -35,15 +35,15 @@ using OutlookAPI;
 bool isOpened = Outlook.OpenApp();
 if (isOpened)
 {
-	//...
+//...
 	
-	bool isSent = Outlook.SendMail("unknown@domain.com", "Test sending", "This test mail");
-	if (isSent)
-	{
-		//...
-	}
+bool isSent = Outlook.SendMail("unknown@domain.com", "Test sending", "This test mail");
+if (isSent)
+{
+//...
+}
 	
-	//...
+//...
 }
 
 //...
@@ -111,11 +111,11 @@ if (isOpened)
 {
 	//...
 	
-		bool isSent = Outlook.SendMail(new List<string> { "unknown1@domain.com", "unknown2@domain.com" }, "Test sending", "This test mail", new List<string> { "‪C:\\Image.png" });
-		if (isSent)
-		{
-			//...
-		}
+	bool isSent = Outlook.SendMail(new List<string> { "unknown1@domain.com", "unknown2@domain.com" }, "Test sending", "This test mail", new List<string> { "‪C:\\Image.png" });
+	if (isSent)
+	{
+		//...
+	}
 	
 	//...
 }
